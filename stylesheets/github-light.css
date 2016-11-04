@@ -138,5 +138,6 @@ SOFTWARE.
     font-weight:bold;
 }
 .round-button:hover {
+    animation-duration: 230ms;
     background: #f5f5f5;
 }
