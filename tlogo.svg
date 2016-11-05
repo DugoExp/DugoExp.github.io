@@ -18,6 +18,8 @@
 
 		#logo {
 		cursor:pointer;
+		fill:#fff;
+		transition: .8s;
 		}
 
 		#logo:hover .st0 {
