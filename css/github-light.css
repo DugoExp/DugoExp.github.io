@@ -143,6 +143,7 @@ SOFTWARE.
 
 .smallimg {
   width: 200px;
+  height: auto;
   border-color: white;
   border-width: 5px;
   border-style: solid;
