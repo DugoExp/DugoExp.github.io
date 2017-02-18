@@ -143,6 +143,10 @@ SOFTWARE.
 
 .smallimg {
   width: 100px;
+  border-color: white;
+  border-width: 3px;
+  border-style: solid;
+  border-radius: 50%;
 }
 
 
