@@ -142,8 +142,8 @@ SOFTWARE.
 }
 
 .smallimg {
-  width: 10px;
-  height: 10px;
+  width: 100px;
+  height: 100px;
   border-color: white;
   border-width: thin;
 }
