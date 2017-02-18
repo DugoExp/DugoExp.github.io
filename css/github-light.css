@@ -142,9 +142,9 @@ SOFTWARE.
 }
 
 .smallimg {
-  width: 100px;
+  width: 200px;
   border-color: white;
-  border-width: 3px;
+  border-width: 5px;
   border-style: solid;
   border-radius: 50%;
 }
