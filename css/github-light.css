@@ -168,3 +168,12 @@ SOFTWARE.
     -webkit-transform: rotate(180deg);
     transform: rotate(180deg);
 }
+
+
+.box:active {
+    background-color: #1b75bb;
+    width: 100px;
+    height: 100px;
+
+
+}
