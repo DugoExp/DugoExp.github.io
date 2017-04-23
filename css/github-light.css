@@ -169,11 +169,13 @@ SOFTWARE.
     transform: rotate(180deg);
 }
 
-
 .box:active {
     background-color: #1b75bb;
     width: 100px;
     height: 100px;
-
-
 }
+
+#box.clickit .box {
+      fill:#1b75bb;
+      stroke: #1b75bb;
+    }
