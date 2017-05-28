@@ -10,11 +10,12 @@ $update = json_decode($update, TRUE);
 
 $chatId = $update["message"]["chat"]["id"];
 $message = $update["message"]["text"];
+$fname = &_POST["fname"];
 
 switch($message) {
 
 	case "/what":
-		sendMessage($chatId, "");
+		sendMessage($chatId, ["&fname"]);
 
 		break;
 	case "/credits":
