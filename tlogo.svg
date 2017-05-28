@@ -19,12 +19,14 @@
 		#logo {
 		cursor:pointer;
 		fill:#fff;
-		transition: .4s;
+		transition: .8s;
+		-webkit-transition: fill .8s;
 		}
 
 		#logo:hover .st0 {
 			fill:#000;
 			transition: .8s;
+			-webkit-transition: fill .8s;
 		}
 
 		#logo.clickit .st0 {
