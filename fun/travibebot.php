@@ -15,7 +15,7 @@ $fname = &_POST["fname"];
 switch($message) {
 
 	case "/what":
-		sendMessage($chatId, ["&fname"]);
+		sendMessage($chatId, &fname);
 
 		break;
 	case "/credits":
