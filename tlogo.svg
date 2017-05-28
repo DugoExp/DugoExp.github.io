@@ -20,13 +20,13 @@
 		cursor:pointer;
 		fill:#fff;
 		transition: .8s;
-		-webkit-transition: fill .8s;
+		-webkit-transition: all .8s;
 		}
 
 		#logo:hover .st0 {
 			fill:#000;
 			transition: .8s;
-			-webkit-transition: fill .8s;
+			-webkit-transition: all .8s;
 		}
 
 		#logo.clickit .st0 {
