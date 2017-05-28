@@ -16,7 +16,7 @@
 			animation: dash 4s linear forwards;
 		}
 
-		#logo {
+		#logo .st0 {
 		cursor:pointer;
 		fill:#fff;
 		transition: .8s;
